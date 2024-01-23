@@ -1,0 +1,60 @@
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+[W logger.cpp:314] Warning: Cuda time stats are not collected for multi-device modules. (function operator())
+Epoch 0 @ 10:27 PM : 0.9816 C.E. Loss, 94.28% Accuracy
+Epoch 1 @ 10:48 PM : 0.9731 C.E. Loss, 94.78% Accuracy
+Epoch 2 @ 11:08 PM : 0.9723 C.E. Loss, 95.78% Accuracy
+Epoch 3 @ 11:29 PM : 0.9722 C.E. Loss, 96.29% Accuracy
+Epoch 4 @ 11:49 PM : 0.9646 C.E. Loss, 97.09% Accuracy
+Epoch 5 @ 12:10 AM : 0.9643 C.E. Loss, 97.09% Accuracy
+Epoch 6 @ 12:30 AM : 0.9605 C.E. Loss, 97.39% Accuracy
+Epoch 7 @ 12:51 AM : 0.9552 C.E. Loss, 97.19% Accuracy
+Epoch 8 @ 01:11 AM : 0.9541 C.E. Loss, 97.59% Accuracy
+Epoch 9 @ 01:32 AM : 0.9585 C.E. Loss, 97.59% Accuracy
+Epoch 10 @ 01:53 AM : 0.9580 C.E. Loss, 97.49% Accuracy
+Epoch 11 @ 02:13 AM : 0.9579 C.E. Loss, 97.79% Accuracy
+Epoch 12 @ 02:34 AM : 0.9584 C.E. Loss, 97.99% Accuracy
+Epoch 13 @ 02:54 AM : 0.9579 C.E. Loss, 97.79% Accuracy
+Epoch 14 @ 03:15 AM : 0.9538 C.E. Loss, 98.09% Accuracy
+Epoch 15 @ 03:35 AM : 0.9509 C.E. Loss, 97.79% Accuracy
+Epoch 16 @ 03:56 AM : 0.9546 C.E. Loss, 97.49% Accuracy
+Epoch 17 @ 04:16 AM : 0.9574 C.E. Loss, 97.89% Accuracy
+Epoch 18 @ 04:37 AM : 0.9596 C.E. Loss, 97.99% Accuracy
+Epoch 19 @ 04:57 AM : 0.9484 C.E. Loss, 97.59% Accuracy
+Epoch 20 @ 05:18 AM : 0.9530 C.E. Loss, 98.09% Accuracy
+Epoch 21 @ 05:38 AM : 0.9540 C.E. Loss, 98.39% Accuracy
+Epoch 22 @ 05:59 AM : 0.9553 C.E. Loss, 98.29% Accuracy
+Epoch 23 @ 06:19 AM : 0.9540 C.E. Loss, 98.49% Accuracy
+Epoch 24 @ 06:39 AM : 0.9531 C.E. Loss, 98.49% Accuracy
+Epoch 25 @ 07:00 AM : 0.9496 C.E. Loss, 97.89% Accuracy
+Epoch 26 @ 07:20 AM : 0.9482 C.E. Loss, 98.09% Accuracy
+Epoch 27 @ 07:41 AM : 0.9540 C.E. Loss, 98.29% Accuracy
+Epoch 28 @ 08:01 AM : 0.9557 C.E. Loss, 98.29% Accuracy
+Epoch 29 @ 08:22 AM : 0.9538 C.E. Loss, 98.59% Accuracy
+Epoch 30 @ 08:43 AM : 0.9525 C.E. Loss, 98.39% Accuracy
+Epoch 31 @ 09:03 AM : 0.9519 C.E. Loss, 98.29% Accuracy
+Save Checkpoint @ 09:03 AM
+Epoch 32 @ 09:24 AM : 0.9496 C.E. Loss, 98.49% Accuracy
+Epoch 33 @ 09:44 AM : 0.9471 C.E. Loss, 98.29% Accuracy
+Epoch 34 @ 10:05 AM : 0.9511 C.E. Loss, 98.69% Accuracy
+Epoch 35 @ 10:25 AM : 0.9505 C.E. Loss, 98.49% Accuracy
+Epoch 36 @ 10:46 AM : 0.9513 C.E. Loss, 98.80% Accuracy
+Epoch 37 @ 11:07 AM : 0.9545 C.E. Loss, 98.49% Accuracy
+Epoch 38 @ 11:27 AM : 0.9520 C.E. Loss, 98.49% Accuracy
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c3.cluster_776435_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c2.cluster_3578183_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c5.cluster_526690_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c4.cluster_790454_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c6.cluster_4145382_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+WARNING:torch.distributed.elastic.rendezvous.dynamic_rendezvous:The node 'c3.cluster_776435_0' has failed to send a keep-alive heartbeat to the rendezvous '3062713' due to an error of type RendezvousTimeoutError.
+Epoch 39 @ 11:49 AM : 0.9495 C.E. Loss, 98.49% Accuracy
+Epoch 40 @ 12:14 PM : 0.9526 C.E. Loss, 98.39% Accuracy
+Epoch 41 @ 12:38 PM : 0.9512 C.E. Loss, 98.59% Accuracy
+Epoch 42 @ 01:04 PM : 0.9488 C.E. Loss, 98.39% Accuracy
+Epoch 43 @ 01:29 PM : 0.9477 C.E. Loss, 98.59% Accuracy
+Epoch 44 @ 01:53 PM : 0.9499 C.E. Loss, 98.29% Accuracy
+Epoch 45 @ 02:20 PM : 0.9525 C.E. Loss, 98.69% Accuracy
+Epoch 46 @ 02:44 PM : 0.9484 C.E. Loss, 98.49% Accuracy
